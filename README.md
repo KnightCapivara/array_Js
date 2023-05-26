@@ -1,1 +1,9 @@
-# array_Js
+# Array
+
+## Métodos:
+- Foreach
+- Map
+- Filter
+- Reduce
+- Concat
+- FlatMap 
